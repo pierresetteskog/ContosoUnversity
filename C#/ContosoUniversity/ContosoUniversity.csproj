@@ -189,6 +189,8 @@
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Properties\PublishProfiles\testPierre2%28develop%29.PublishSettings" />
+    <None Include="Properties\PublishProfiles\testPierre2 - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\testPierre2 - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\testPierre2-develop - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\testPierre2-develop - Web Deploy.pubxml" />
     <Content Include="Properties\SlowCheetah\SlowCheetah.Transforms.targets" />
